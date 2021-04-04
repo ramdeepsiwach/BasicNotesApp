@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotesDemo</string>
+    <string name="type_hereString">Type Here..</string>
+    <string name="add_noteString">Add Note</string>
+    <string name="backString">Back</string>
+    <string name="clear_allString">Clear All</string>
+</resources>
